@@ -1,0 +1,11 @@
+name: HelpPlugin
+version: '1.0-SNAPSHOT'
+main: com.pabro.helpplugin.HelpPlugin
+api-version: 1.19
+authors: [ Pabro ]
+commands:
+  dobbelsteen:
+  coinflip:
+  slots:
+  blackjack:
+  armorstand:
